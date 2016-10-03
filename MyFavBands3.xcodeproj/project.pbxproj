@@ -7,23 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		902B3D9B1DA30FA60007FB7F /* CHVRCHES.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D931DA30FA60007FB7F /* CHVRCHES.jpg */; };
+		902B3D9C1DA30FA60007FB7F /* Jimmy Eat World.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D941DA30FA60007FB7F /* Jimmy Eat World.jpg */; };
+		902B3D9D1DA30FA60007FB7F /* Keane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D951DA30FA60007FB7F /* Keane.jpg */; };
+		902B3D9E1DA30FA60007FB7F /* Pianos Become the Teeth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D961DA30FA60007FB7F /* Pianos Become the Teeth.jpg */; };
+		902B3D9F1DA30FA60007FB7F /* Radiohead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D971DA30FA60007FB7F /* Radiohead.jpg */; };
+		902B3DA01DA30FA60007FB7F /* Sunny Day Real Estate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D981DA30FA60007FB7F /* Sunny Day Real Estate.jpg */; };
+		902B3DA11DA30FA60007FB7F /* U2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D991DA30FA60007FB7F /* U2.jpg */; };
+		902B3DA21DA30FA60007FB7F /* We Were Promised Jetpacks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 902B3D9A1DA30FA60007FB7F /* We Were Promised Jetpacks.jpg */; };
 		90D304F91D99D5E200F0F1B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D304F81D99D5E200F0F1B5 /* AppDelegate.swift */; };
 		90D304FB1D99D5E200F0F1B5 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D304FA1D99D5E200F0F1B5 /* MasterViewController.swift */; };
 		90D304FD1D99D5E200F0F1B5 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D304FC1D99D5E200F0F1B5 /* DetailViewController.swift */; };
 		90D305001D99D5E200F0F1B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D304FE1D99D5E200F0F1B5 /* Main.storyboard */; };
 		90D305021D99D5E200F0F1B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90D305011D99D5E200F0F1B5 /* Assets.xcassets */; };
 		90D305051D99D5E200F0F1B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D305031D99D5E200F0F1B5 /* LaunchScreen.storyboard */; };
-		90D305151D99D6F600F0F1B5 /* CHVRCHES.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D3050D1D99D6F600F0F1B5 /* CHVRCHES.jpg */; };
-		90D305161D99D6F600F0F1B5 /* We Were Promised Jetpacks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D3050E1D99D6F600F0F1B5 /* We Were Promised Jetpacks.jpg */; };
-		90D305171D99D6F600F0F1B5 /* Jimmy Eat World.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D3050F1D99D6F600F0F1B5 /* Jimmy Eat World.jpg */; };
-		90D305181D99D6F600F0F1B5 /* Keane.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D305101D99D6F600F0F1B5 /* Keane.jpg */; };
-		90D305191D99D6F600F0F1B5 /* Pianos Become the Teeth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D305111D99D6F600F0F1B5 /* Pianos Become the Teeth.jpg */; };
-		90D3051A1D99D6F600F0F1B5 /* Radiohead.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D305121D99D6F600F0F1B5 /* Radiohead.jpg */; };
-		90D3051B1D99D6F600F0F1B5 /* Sunny Day Real Estate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D305131D99D6F600F0F1B5 /* Sunny Day Real Estate.jpg */; };
-		90D3051C1D99D6F600F0F1B5 /* U2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90D305141D99D6F600F0F1B5 /* U2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		902B3D931DA30FA60007FB7F /* CHVRCHES.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = CHVRCHES.jpg; sourceTree = SOURCE_ROOT; };
+		902B3D941DA30FA60007FB7F /* Jimmy Eat World.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jimmy Eat World.jpg"; sourceTree = SOURCE_ROOT; };
+		902B3D951DA30FA60007FB7F /* Keane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Keane.jpg; sourceTree = SOURCE_ROOT; };
+		902B3D961DA30FA60007FB7F /* Pianos Become the Teeth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pianos Become the Teeth.jpg"; sourceTree = SOURCE_ROOT; };
+		902B3D971DA30FA60007FB7F /* Radiohead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Radiohead.jpg; sourceTree = SOURCE_ROOT; };
+		902B3D981DA30FA60007FB7F /* Sunny Day Real Estate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sunny Day Real Estate.jpg"; sourceTree = SOURCE_ROOT; };
+		902B3D991DA30FA60007FB7F /* U2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = U2.jpg; sourceTree = SOURCE_ROOT; };
+		902B3D9A1DA30FA60007FB7F /* We Were Promised Jetpacks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "We Were Promised Jetpacks.jpg"; sourceTree = SOURCE_ROOT; };
 		90D304F51D99D5E200F0F1B5 /* MyFavBands3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFavBands3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		90D304F81D99D5E200F0F1B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90D304FA1D99D5E200F0F1B5 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -32,14 +40,6 @@
 		90D305011D99D5E200F0F1B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90D305041D99D5E200F0F1B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90D305061D99D5E200F0F1B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		90D3050D1D99D6F600F0F1B5 /* CHVRCHES.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = CHVRCHES.jpg; path = "../../Band Images/CHVRCHES.jpg"; sourceTree = "<group>"; };
-		90D3050E1D99D6F600F0F1B5 /* We Were Promised Jetpacks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "We Were Promised Jetpacks.jpg"; path = "../../Band Images/We Were Promised Jetpacks.jpg"; sourceTree = "<group>"; };
-		90D3050F1D99D6F600F0F1B5 /* Jimmy Eat World.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Jimmy Eat World.jpg"; path = "../../Band Images/Jimmy Eat World.jpg"; sourceTree = "<group>"; };
-		90D305101D99D6F600F0F1B5 /* Keane.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Keane.jpg; path = "../../Band Images/Keane.jpg"; sourceTree = "<group>"; };
-		90D305111D99D6F600F0F1B5 /* Pianos Become the Teeth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pianos Become the Teeth.jpg"; path = "../../Band Images/Pianos Become the Teeth.jpg"; sourceTree = "<group>"; };
-		90D305121D99D6F600F0F1B5 /* Radiohead.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Radiohead.jpg; path = "../../Band Images/Radiohead.jpg"; sourceTree = "<group>"; };
-		90D305131D99D6F600F0F1B5 /* Sunny Day Real Estate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Sunny Day Real Estate.jpg"; path = "../../Band Images/Sunny Day Real Estate.jpg"; sourceTree = "<group>"; };
-		90D305141D99D6F600F0F1B5 /* U2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = U2.jpg; path = "../../Band Images/U2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,14 +87,14 @@
 		90D3050C1D99D6B200F0F1B5 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				90D3050D1D99D6F600F0F1B5 /* CHVRCHES.jpg */,
-				90D3050E1D99D6F600F0F1B5 /* We Were Promised Jetpacks.jpg */,
-				90D3050F1D99D6F600F0F1B5 /* Jimmy Eat World.jpg */,
-				90D305101D99D6F600F0F1B5 /* Keane.jpg */,
-				90D305111D99D6F600F0F1B5 /* Pianos Become the Teeth.jpg */,
-				90D305121D99D6F600F0F1B5 /* Radiohead.jpg */,
-				90D305131D99D6F600F0F1B5 /* Sunny Day Real Estate.jpg */,
-				90D305141D99D6F600F0F1B5 /* U2.jpg */,
+				902B3D931DA30FA60007FB7F /* CHVRCHES.jpg */,
+				902B3D941DA30FA60007FB7F /* Jimmy Eat World.jpg */,
+				902B3D951DA30FA60007FB7F /* Keane.jpg */,
+				902B3D961DA30FA60007FB7F /* Pianos Become the Teeth.jpg */,
+				902B3D971DA30FA60007FB7F /* Radiohead.jpg */,
+				902B3D981DA30FA60007FB7F /* Sunny Day Real Estate.jpg */,
+				902B3D991DA30FA60007FB7F /* U2.jpg */,
+				902B3D9A1DA30FA60007FB7F /* We Were Promised Jetpacks.jpg */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -157,17 +157,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90D305171D99D6F600F0F1B5 /* Jimmy Eat World.jpg in Resources */,
-				90D3051B1D99D6F600F0F1B5 /* Sunny Day Real Estate.jpg in Resources */,
-				90D305181D99D6F600F0F1B5 /* Keane.jpg in Resources */,
-				90D3051A1D99D6F600F0F1B5 /* Radiohead.jpg in Resources */,
-				90D305161D99D6F600F0F1B5 /* We Were Promised Jetpacks.jpg in Resources */,
-				90D305191D99D6F600F0F1B5 /* Pianos Become the Teeth.jpg in Resources */,
-				90D3051C1D99D6F600F0F1B5 /* U2.jpg in Resources */,
+				902B3DA21DA30FA60007FB7F /* We Were Promised Jetpacks.jpg in Resources */,
+				902B3DA11DA30FA60007FB7F /* U2.jpg in Resources */,
+				902B3DA01DA30FA60007FB7F /* Sunny Day Real Estate.jpg in Resources */,
 				90D305051D99D5E200F0F1B5 /* LaunchScreen.storyboard in Resources */,
+				902B3D9B1DA30FA60007FB7F /* CHVRCHES.jpg in Resources */,
+				902B3D9E1DA30FA60007FB7F /* Pianos Become the Teeth.jpg in Resources */,
+				902B3D9D1DA30FA60007FB7F /* Keane.jpg in Resources */,
 				90D305021D99D5E200F0F1B5 /* Assets.xcassets in Resources */,
+				902B3D9F1DA30FA60007FB7F /* Radiohead.jpg in Resources */,
+				902B3D9C1DA30FA60007FB7F /* Jimmy Eat World.jpg in Resources */,
 				90D305001D99D5E200F0F1B5 /* Main.storyboard in Resources */,
-				90D305151D99D6F600F0F1B5 /* CHVRCHES.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,6 +332,7 @@
 				90D3050B1D99D5E200F0F1B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
